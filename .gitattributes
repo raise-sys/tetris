@@ -1,0 +1,4 @@
+*.wasm binary
+*.dll binary
+*.dat binary
+_framework/** -text
